@@ -5,4 +5,4 @@ for FirstDigit in range(0, 10):
         if FirstDigit == 8 and SecondDigit == 9:
             print("{}{}".format(FirstDigit, SecondDigit))
         else:
-            print("{}".format(FirstDigit, SecondDigit), end="")
+            print("{}{}".format(FirstDigit, SecondDigit), end=", ")

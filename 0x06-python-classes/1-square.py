@@ -3,5 +3,6 @@
 
 
 class Square:
+    """Attributes/Methods of class square."""
     def __init__(self, size):
         self.__size = size

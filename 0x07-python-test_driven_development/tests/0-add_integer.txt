@@ -1,5 +1,4 @@
 # 0-add_integer.txt
-# Author: Sangwani P. Zyambo <sangwanizyambo@gmail.com>
 
 =========================
 Using 0-add_integer.py

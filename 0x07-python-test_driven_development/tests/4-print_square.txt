@@ -1,3 +1,5 @@
+# Test file for a function
+
 Defines a function that prints a square based on the size passed 
 as an argument to the function.
 

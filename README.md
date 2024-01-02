@@ -1,2 +1,2 @@
-All the project's detail's will appear here
-
+# Project's details
+All the project's details appear here.
